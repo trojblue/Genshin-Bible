@@ -7,7 +7,7 @@
 
 谷歌缓存地址: http://webcache.googleusercontent.com/search?q=cache:https://nga.178.com/read.php?tid=23621828
 
-在这个网站, 输入后续页码可以看到之后页面的评论:https://nga.178.com/read.php?tid=23621828
+在这个网站, 输入后续页码可以看到之后页面的评论: https://cachedview.com/
 ```
 
 

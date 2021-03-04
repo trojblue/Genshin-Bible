@@ -7,9 +7,9 @@
 
 ## 预防针篇
 
-原神开服时对米氏常见操作的预防针帖子; 现已被删除
+原神开服时对米氏常见操作的预防针帖子; 现已被删除 ↓
 
-[备份地址](https://github.com/Trojblue/Genshin-Bible/blob/main/vaccine.md)
+[vaccine.md](https://github.com/Trojblue/Genshin-Bible/blob/main/vaccine.md)
 
 
 
