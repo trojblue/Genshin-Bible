@@ -4,6 +4,17 @@
 根据添加日期倒序排列
 
 
+
+## 预防针篇
+
+原神开服时对米氏常见操作的预防针帖子; 现已被删除
+
+[备份地址](https://github.com/Trojblue/Genshin-Bible/blob/main/vaccine.md)
+
+
+
+
+
 ## 新约 · 卷三
 
 转载自[知乎](https://www.zhihu.com/question/433101765/answer/1610537629), 作者: [聿子先生](https://www.zhihu.com/people/li-yu-zhe-47-93), 已获作者许可
