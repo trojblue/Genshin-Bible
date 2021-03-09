@@ -5,6 +5,14 @@
 
 
 
+## 阿方索篇
+
+提取自nga用户"阿方索"
+
+[afs.md](https://github.com/Trojblue/Genshin-Bible/blob/main/afs.md)
+
+
+
 ## 预防针篇
 
 原神开服时对米氏常见操作的预防针帖子; 现已被删除 ↓
