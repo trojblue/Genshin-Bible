@@ -10,7 +10,9 @@
     欢迎issue或者pull request补充
     <br />
     <br />
-    <a href="https://github.com/Trojblue/Genshin-Bible/blob/main/assets/reuse.md">关于转载</a>
+    <a href="https://github.com/Trojblue/Genshin-Bible/blob/main/assets/about.md">关于项目</a>
+    ·
+    <a href="https://github.com/Trojblue/Genshin-Bible/blob/main/assets/contribute.md">贡献条目</a>
     ·
     <a href="https://github.com/Trojblue/Genshin-Bible/issues">问题反馈</a>
     ·
@@ -19,7 +21,6 @@
 </p>
 
 <br>
-
 
 
 
