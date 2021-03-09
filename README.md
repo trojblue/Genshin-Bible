@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Trojblue/Genshin-Bible">
-    <img src="https://github.com/Trojblue/Genshin-Bible/blob/main/assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Trojblue/Genshin-Bible/blob/main/assets/logo.png" alt="Logo" width="135" height="90">
   </a>
   <h1 align="center">原 神 圣 经</h1>
   <p align="center">
@@ -16,10 +16,12 @@
     ·
     <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https%3A%2F%2Fgithub.com%2FTrojblue%2FGenshin-Bible%2F">English Version</a>
   </p>
-
 </p>
 
-</p>
+<br>
+
+
+
 
 ## 四 风 原 典
 
